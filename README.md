@@ -14,7 +14,7 @@ WS2812B Controller for RC plane night flying with spotlight
 - Elko XXV XXXµF
 - Socket for Atmega
 - Some servo wires
-- remains commig soon
+- remains conming soon
 
 ## 2.Software:
 -	get your isp-programmer (ex. USBasp) working, linux is your friend

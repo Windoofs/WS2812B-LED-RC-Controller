@@ -11,10 +11,12 @@ WS2812B Controller for RC plane night flying with spotlight
 -	WS2812B stirp (got mine from https://www.banggood.com/5M-45W-150SMD-WS2812B-LED-RGB-Colorful-Strip-Light-Waterproof-IP65-WhiteBlack-PCB-DC5V-p-1035640.html)
 -	3W 12V LED
 - Transistor 2N3904
-- Elko XXV XXXµF
+- Capacitors - 10uF/25V
 - Socket for Atmega
 - Some servo wires
-- remains conming soon
+- Crystal 16MHz
+- Capacitor Ceramic 22pF
+- PCB of your choice
 
 ## 2.Software:
 -	get your isp-programmer (ex. USBasp) working, linux is your friend

@@ -1,6 +1,8 @@
 # WS2812B-LED-RC-Controller
 WS2812B Controller for RC plane night flying with spotlight
 
+# moved to https://git.mosad.xyz/localhorst/WS2812B-LED-RC-Controller
+
 #### Fast overview: Video will come soon.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi//0.jpg)]
